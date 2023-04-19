@@ -11,7 +11,7 @@
 
 ![Image1](https://user-images.githubusercontent.com/101060099/233205865-203caac2-1725-4449-84b0-7e6a838c241b.PNG)
 
-### Convergence Graph of Best SVM 
+## Convergence Graph of Best SVM 
 
 ![Image2](https://user-images.githubusercontent.com/101060099/233205936-dadc96e1-5dd8-4235-911e-22bdf8f4ff22.PNG)
 
